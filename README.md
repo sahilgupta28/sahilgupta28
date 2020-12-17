@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="left">
-    <p><a href="https://twitter.com/sahil_gupta28"><img alt="Twitter @sahil_gupta28" align="center" src="https://img.shields.io/badge/-@sahil_gupta28-gray.svg?colorA=6A788D&colorB=1da1f2&style=for-the-badge" /></a>&nbsp;<small> <strong>(follow)</strong> To get <a href="https://sahilgupta28.herokuapp.com/">#OneDevMinute</a> development tips</small></p>
-    <p><a href="https://sahilgupta1.blogspot.com/"><img alt="Blog: https://sahilgupta1.blogspot.com" align="center" src="https://img.shields.io/badge/-MY%20BLOG-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(read)</strong> In-depth & long form technical articles</small></p>
-    <p><a href="https://www.linkedin.com/in/sahilgupta28/"><img alt="LinkedIn @sahilgupta28" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(connect)</strong> On LinkedIn y'all</small></p>
+    <p><a href="https://twitter.com/sahil_gupta28"><img alt="Twitter @sahil_gupta28" align="center" src="https://img.shields.io/badge/-@sahil_gupta28-gray.svg?colorA=6A788D&colorB=1da1f2&style=for-the-badge" /></a>
+    <p><a href="https://sahilgupta1.blogspot.com/"><img alt="Blog: https://sahilgupta1.blogspot.com" align="center" src="https://img.shields.io/badge/-MY%20BLOG-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>
+    <p><a href="https://www.linkedin.com/in/sahilgupta28/"><img alt="LinkedIn @sahilgupta28" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>
 </div>
